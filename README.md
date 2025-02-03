@@ -14,3 +14,6 @@ Bu projeyi çalıştırabilmek için aşağıdaki Python kütüphanelerinin yük
 - `plotly`
 - `pandas`
 
+[Proje Tanıtım Videosu](assets/video.mp4)
+
+Alternatif olarak, videoyu doğrudan tarayıcınızda açarak izleyebilirsiniz.
