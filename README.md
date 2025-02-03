@@ -1,4 +1,4 @@
-   # Özgürlük Puanları Görselleştirme Web Uygulaması
+   # Özgürlük Puanları Görselleştirme
 
 Bu web uygulaması, 2013-2022 yılları arasındaki ülkelerin özgürlük puanlarını görselleştiren bir Dash uygulamasıdır. Uygulama, her bir ülkenin özgürlük puanlarını gösteren etkileşimli bir dünya haritası sunar ve kullanıcıların iki ülkenin özgürlük puanlarını zaman içinde karşılaştırmalarına olanak tanır.
 
@@ -13,8 +13,4 @@ Bu projeyi çalıştırabilmek için aşağıdaki Python kütüphanelerinin yük
 - `dash`
 - `plotly`
 - `pandas`
-
-Yüklemek için terminal üzerinden şu komutları kullanabilirsiniz:
-```bash
-pip install dash plotly pandas
 
