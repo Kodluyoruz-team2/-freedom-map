@@ -6,20 +6,19 @@
 
 ---
 
-## ⚡  Proje Hakkında
+##   Proje Hakkında
 Bu proje, **Freedom in the World (2013–2022)** veri seti kullanılarak geliştirilmiş bir **Dash uygulamasıdır**.  
 Uygulama, ülkelerin özgürlük skorlarını dünya haritası üzerinde **etkileşimli bir şekilde sunar** ve iki ülkenin skorlarını **yıllara göre karşılaştırma** imkânı tanır.  
 
 ---
-
-## ⚡ Özellikler
+## Özellikler
 - 🗺️ **Dünya Haritası**: Ülkelerin özgürlük skorlarını renklendirilmiş harita üzerinde görselleştirir.  
 - 📊 **Ülke Karşılaştırması**: Seçilen iki ülkenin yıllar içindeki özgürlük skorlarını çizgi grafiği ile kıyaslama.  
 - 🔄 **Dinamik Arayüz**: Kullanıcı seçimlerine göre grafikler otomatik güncellenir.  
 
 ---
 
-## 🛠️ Kullanılan Teknolojiler
+## 🛠 Kullanılan Teknolojiler
 - **Python**  
 - **Dash (Plotly + Dash Components)**  
 - **Pandas**  
@@ -32,7 +31,7 @@ Veri kaynağı: [Kaggle – Freedom in the World 2013–2022](https://www.kaggle
 
 ---
 
-## Proje Tanıtım Videosu
+## Proje Tanıtım Videosu için : 
 [Proje Tanıtım Videosu](https://drive.google.com/file/d/1S1v-pJwqx7-FaIWbkw9denXmRNnPKE-T/view)
 
 
