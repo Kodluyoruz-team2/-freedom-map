@@ -14,6 +14,9 @@ Bu projeyi çalıştırabilmek için aşağıdaki Python kütüphanelerinin yük
 - `plotly`
 - `pandas`
 
+## Demo 
 [Proje Tanıtım Videosu](https://drive.google.com/file/d/1S1v-pJwqx7-FaIWbkw9denXmRNnPKE-T/view)
 
-Alternatif olarak, videoyu doğrudan tarayıcınızda açarak izleyebilirsiniz.
+
+
+-Bu proje, Kodluyoruz HiKod Programı – Team 2 grubuna ait olarak geliştirilmiştir.
