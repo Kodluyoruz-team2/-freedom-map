@@ -36,5 +36,3 @@ Veri kaynağı: [Kaggle – Freedom in the World 2013–2022](https://www.kaggle
 [Proje Tanıtım Videosu](https://drive.google.com/file/d/1S1v-pJwqx7-FaIWbkw9denXmRNnPKE-T/view)
 
 
-
--Bu proje, Kodluyoruz HiKod Programı – Team 2 grubuna ait olarak geliştirilmiştir.
